@@ -121,7 +121,7 @@ body {
 
 
 .icone1 {
-   
+
     position: absolute;
     width: 190px;
     height: 251px;
@@ -132,7 +132,7 @@ body {
 }
 
 .icone2 {
-    
+
     position: absolute;
     width: 190px;
     height: 251px;
@@ -143,7 +143,7 @@ body {
 }
 
 .icone3 {
-    
+
     position: absolute;
     width: 190px;
     height: 251px;
@@ -156,7 +156,7 @@ body {
 
 
 .icone4 {
-    
+
     position: absolute;
     width: 190px;
     height: 251px;
@@ -167,7 +167,7 @@ body {
 }
 
 .icone5 {
-    
+
     position: absolute;
     width: 190px;
     height: 251px;
@@ -189,60 +189,65 @@ body {
 
 }
 
-.iten1 {
-
+.icone7 {
     position: absolute;
-    width: 149px;
-    height: 145px;
-    left: 1320px;
-    top: 320px;
-    background: #ffffff;
+    width: 190px;
+    height: 251px;
+    left: 30px;
+    top: 1200px;
+    background: #AFE6FF;
+    border-radius: 21px;
 }
 
-.iten2 {
+.icone8 {
     position: absolute;
-    width: 149px;
-    height: 145px;
-    left: 50px;
-    top: 320px;
-    background: #ffffff;
+    width: 190px;
+    height: 251px;
+    left: 285px;
+    top: 1200px;
+    background: #AFE6FF;
+    border-radius: 21px;
 }
 
-.iten3 {
+.icone9 {
     position: absolute;
-    width: 149px;
-    height: 145px;
-    left: 305px;
-    top: 320px;
-    background: #ffffff;
+    width: 190px;
+    height: 251px;
+    left: 795px;
+    top: 1200px;
+    background: #AFE6FF;
+    border-radius: 21px;
 }
 
-.iten4 {
+.icone10 {
     position: absolute;
-    width: 149px;
-    height: 145px;
-    left: 560px;
-    top: 320px;
-    background: #ffffff;
+    width: 190px;
+    height: 251px;
+    left: 1050px;
+    top: 1200px;
+    background: #AFE6FF;
+    border-radius: 21px;
 }
 
-.iten5 {
+.icone11 {
     position: absolute;
-    width: 149px;
-    height: 145px;
-    left: 815px;
-    background: #ffffff;
+    width: 190px;
+    height: 251px;
+    left: 1300px;
+    top: 1200px;
+    background: #AFE6FF;
+    border-radius: 21px;
 }
 
-.iten6 {
+.icone12 {
+
     position: absolute;
-    width: 149px;
-   
-    height: 145px;
-    
-    left: 1070px;
-    top: 320px;
-    background: #ffffff;
+    width: 190px;
+    height: 251px;
+    left: 550px;
+    top: 1200px;
+    background: #AFE6FF;
+    border-radius: 21px;
 }
 
 
@@ -312,6 +317,66 @@ body {
 }
 
 
+.texto7 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 35px;
+    top: 1370px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto8 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 290px;
+    top: 1370px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto9 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 555px;
+    top: 1370px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto10 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 800px;
+    top: 1370px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto11 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1056px;
+    top: 1370px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto12 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1305px;
+    top: 1370px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 
 .iten1 {
     position: absolute;
@@ -350,6 +415,7 @@ body {
 }
 
 .iten5 {
+    
     position: absolute;
     width: 149px;
     height: 145px;
@@ -364,7 +430,88 @@ body {
     left: 1070px;
     top: 320px;
     background: #000000;
+    opacity: 5;
 }
+
+
+
+.iten7 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 1320px;
+    top: 1220px;
+    background: #000000;
+}
+
+.iten8 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 50px;
+    top: 1220px;
+    background: #000000;
+}
+
+.iten9 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 305px;
+    top: 1220px;
+    background: #000000;
+}
+
+.iten10 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 815px;
+    top: 1220px;
+    background: #000000;
+}
+
+.iten11 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 1070px;
+    top: 1220px;
+    background: #000000;
+}
+
+.iten12 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 570px;
+    top: 1220px;
+    background: #000000;
+}
+
+.iten13 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 815px;
+    top: 1220px;
+    background: #000000;
+}
+
 
 
 .p1 {
@@ -428,83 +575,144 @@ body {
     height: 251px;
     left: 1307px;
     top: 520px;
-
 }
+
+
+
+
+.p7 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 35px;
+    top: 1408px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p8 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 290px;
+    top: 1408px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p9 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 555px;
+    top: 1408px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p10 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 800px;
+    top: 1408px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p11 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1056px;
+    top: 1408px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p12 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1305px;
+    top: 1408px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 
 
 
 .bloco1 {
-
     background-color: rgb(255, 255, 255);
-    border: 0.1px solid;
+    position: flex;
     border-color: black;
     height: 200px;
     width: 300px;
-    box-shadow: 19px -15px 0px rgb(172, 243, 255);
+    box-shadow: 16px -15px 0px rgb(172, 243, 255);
     margin-left: 230px;
     margin-top: 500px;
-    border-radius: 50%
+    border-radius: 7%;
 }
 
 .bloco2 {
-
     background-color: rgb(255, 255, 255);
-    border: 0.1px solid;
     border-color: black;
     height: 200px;
     width: 300px;
-    box-shadow:19px -15px 0px rgb(172, 243, 255);
-    border-radius: 50%;
+    box-shadow: 16px -15px 0px rgb(172, 243, 255);
     margin-left: 1000px;
     margin-top: -200px;
-
+    border-radius: 7%;
 }
 
-.produto{
-    width: 30px;
-    height: 30px;
-}
-.caderno{
-    width: 30px;
-    height: 30px;
-}
-.produto{
-    width: 30px;
-    height: 30px;
+.produto {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 40px;
+    border-radius: 57px;
 }
 
+.caderno {
+    width: 50px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: -10px;
+    border-radius: 57px;
+}
 
+.caneta {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 57px;
+}
 
+.um {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 40px;
+    border-radius: 57px;
+}
 
+.dois {
+    width: 50px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: -10px;
+    border-radius: 57px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.tres {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 57px;
+}
 
 
 
