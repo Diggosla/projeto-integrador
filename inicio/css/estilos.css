@@ -3,9 +3,12 @@
 body {
     text-align: center;
     font-family: 'Fredericka the Great', cursive;
-    background-color: #0c4c83;
-    opacity: 100%;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to right,rgb(31, 65, 152), #529ab9, #75c2e3, #3568b0 ,rgb(31, 65, 152)) ;
 }
+
+
 
 .menu {
     display: flex;
@@ -25,7 +28,7 @@ body {
 
 .header {
     display: flex;
-    background-color: #116DA6;
+    
     padding: 10px;
     align-items: center;
     flex-wrap: wrap;
@@ -195,7 +198,7 @@ body {
     height: 251px;
     left: 30px;
     top: 1200px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
@@ -205,7 +208,7 @@ body {
     height: 251px;
     left: 285px;
     top: 1200px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
@@ -215,7 +218,7 @@ body {
     height: 251px;
     left: 795px;
     top: 1200px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
@@ -225,7 +228,7 @@ body {
     height: 251px;
     left: 1050px;
     top: 1200px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
@@ -235,7 +238,7 @@ body {
     height: 251px;
     left: 1300px;
     top: 1200px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
@@ -246,7 +249,7 @@ body {
     height: 251px;
     left: 550px;
     top: 1200px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
@@ -260,6 +263,7 @@ body {
     left: 35px;
     top: 480px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .texto2 {
@@ -270,6 +274,7 @@ body {
     left: 290px;
     top: 480px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .texto3 {
@@ -281,6 +286,7 @@ body {
     left: 544px;
     top: 480px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 
 }
 
@@ -293,6 +299,7 @@ body {
     left: 800px;
     top: 480px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .texto5 {
@@ -303,6 +310,7 @@ body {
     left: 1056px;
     top: 480px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .texto6 {
@@ -314,6 +322,7 @@ body {
     left: 1305px;
     top: 480px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 
@@ -325,6 +334,7 @@ body {
     left: 35px;
     top: 1370px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .texto8 {
@@ -335,6 +345,7 @@ body {
     left: 290px;
     top: 1370px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .texto9 {
@@ -345,6 +356,7 @@ body {
     left: 555px;
     top: 1370px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .texto10 {
@@ -355,6 +367,7 @@ body {
     left: 800px;
     top: 1370px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .texto11 {
@@ -365,6 +378,7 @@ body {
     left: 1056px;
     top: 1370px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .texto12 {
@@ -375,6 +389,7 @@ body {
     left: 1305px;
     top: 1370px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 
@@ -515,6 +530,7 @@ body {
 
 
 .p1 {
+    color: black;
     text-align: left;
     position: absolute;
     width: 190px;
@@ -525,6 +541,7 @@ body {
 }
 
 .p2 {
+    color: black;
     text-align: left;
     position: absolute;
     width: 190px;
@@ -535,7 +552,7 @@ body {
 }
 
 .p3 {
-
+    color: black;
     text-align: left;
     position: absolute;
     width: 190px;
@@ -547,7 +564,7 @@ body {
 }
 
 .p4 {
-
+    color: black;
     text-align: left;
     position: absolute;
     width: 190px;
@@ -565,6 +582,7 @@ body {
     left: 1056px;
     top: 520px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
 }
 
 .p6 {
@@ -575,6 +593,7 @@ body {
     height: 251px;
     left: 1307px;
     top: 520px;
+    color: black;
 }
 
 
@@ -588,6 +607,7 @@ body {
     left: 35px;
     top: 1408px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .p8 {
@@ -598,6 +618,7 @@ body {
     left: 290px;
     top: 1408px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .p9 {
@@ -608,6 +629,7 @@ body {
     left: 555px;
     top: 1408px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .p10 {
@@ -618,6 +640,7 @@ body {
     left: 800px;
     top: 1408px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .p11 {
@@ -628,6 +651,7 @@ body {
     left: 1056px;
     top: 1408px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 .p12 {
@@ -638,57 +662,13 @@ body {
     left: 1305px;
     top: 1408px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
 }
 
 
 
 
-.bloco1 {
-    background-color: rgb(255, 255, 255);
-    position: flex;
-    border-color: black;
-    height: 300px;
-    width: 400px;
-    box-shadow: 16px -15px 0px rgb(172, 243, 255);
-    margin-left: 230px;
-    margin-top: 500px;
-    border-radius: 7%;
-}
 
-.bloco2 {
-    background-color: rgb(255, 255, 255);
-    border-color: black;
-    height: 300px;
-    width: 400px;
-    box-shadow: 16px -15px 0px rgb(172, 243, 255);
-    margin-left: 1000px;
-    margin-top: -200px;
-    border-radius: 7%;
-}
-
-.produto {
-    width: 50px;
-    height: 50px;
-    margin-left: 20px;
-    margin-top: 40px;
-    border-radius: 57px;
-}
-
-.caderno {
-    width: 50px;
-    height: 50px;
-    margin-left: 120px;
-    margin-top: -10px;
-    border-radius: 57px;
-}
-
-.caneta {
-    width: 50px;
-    height: 50px;
-    margin-left: 10px;
-    margin-top: 10px;
-    border-radius: 57px;
-}
 
 .um {
     width: 50px;
@@ -716,15 +696,17 @@ body {
 
 
 .pnblock {
+    display: block;
     background-color: #AFE6FF;
     width: 102%;
     margin-left: -10px;
     margin-bottom: 0px;
     height: 20px;
-    margin-top: 590px;
+    margin-top: 100%;
 }
 
 .ublock {
+    display: block;
     background-color: #186eb9;
     width: 102%;
     margin-left: -10px;
@@ -839,6 +821,7 @@ body {
 }
 
 h1 {
+   
     border: #ffffff;
     margin: 0.4rem;
 }
@@ -859,6 +842,7 @@ h1 {
 
 a:hover {
     color: rgb(255, 255, 255);
+
 }
 
 
@@ -875,7 +859,8 @@ a:hover {
 
 
 
-.erasing-animation {
+.erasing-animation { 
+
     animation-name: erasing;
     animation-duration: 1.5s;
 
@@ -1125,3 +1110,28 @@ a:hover {
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
