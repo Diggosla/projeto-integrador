@@ -1,0 +1,62 @@
+.titulo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+font-size: 40px;
+text-shadow: rgb(129, 159, 225) -3px -1px;
+}
+
+.borda{
+border-radius: 100px;
+box-shadow: -2px -3px 40px;
+width: 500px;
+height:550px ;
+position: absolute;
+left:500px;
+top: 70px;
+background-image: url(login\ \(3\).png)
+
+}  
+
+.email{
+    text-align: center;
+}
+
+.senha{
+text-align: center;
+}
+.lembrar{
+text-align: center;
+}
+
+.botao{
+text-align: center;
+}
+
+.letras{
+width: 500px;
+height:480px ;
+position: absolute;
+top: 150px;
+}
+
+.fundo{
+background-image: url(login\ \(3\).png);
+backdrop-filter: blur(100px) saturate(150%);
+position: relative ;
+border-radius:6px;
+overflow:hidden;
+-webkit-filter: blur(10px);
+-moz-filter: blur(10px);
+-o-filter: blur(10px);
+-ms-filter: blur(10px);
+filter: blur(10px);
+height:765px;
+width: 100%;
+left: 0;
+right: 0;
+
+
+}
+
+
+
