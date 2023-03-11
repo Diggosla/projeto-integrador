@@ -8,7 +8,13 @@ body {
     background-image: linear-gradient(to right,rgb(31, 65, 152), #529ab9, #75c2e3, #3568b0 ,rgb(31, 65, 152)) ;
 }
 
-
+.nome{
+    display: inline;
+    font-family: 'Rubik', sans-serif;
+    height: 900000px
+   
+   
+}
 
 .menu {
     display: flex;
@@ -254,6 +260,73 @@ body {
 }
 
 
+.icone13 {
+
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 550px;
+    top: 750px;
+    background: #ffffff;
+    border-radius: 21px;
+}
+
+.icone14 {
+
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 30px;
+    top: 750px;
+    background: #ffffff;
+    border-radius: 21px;
+}
+
+.icone15 {
+
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 290px;
+    top: 750px;
+    background: #ffffff;
+    border-radius: 21px;
+}
+
+.icone16 {
+
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 800px;
+    top: 750px;
+    background: #ffffff;
+    border-radius: 21px;
+}
+
+.icone17 {
+
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1050px;
+    top: 750px;
+    background: #ffffff;
+    border-radius: 21px;
+}
+
+.icone18 {
+
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1300px;
+    top: 750px;
+    background: #ffffff;
+    border-radius: 21px;
+}
+
+
 
 .texto1 {
     text-align: left;
@@ -392,7 +465,70 @@ body {
     color: black;
 }
 
+.texto13 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 570px;
+    top: 920px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
 
+.texto14 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 50px;
+    top: 920px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.texto15 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 320px;
+    top: 920px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.texto16 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 820px;
+    top: 920px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.texto17 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1070px;
+    top: 920px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.texto18 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1330px;
+    top: 920px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
 .iten1 {
     position: absolute;
     width: 149px;
@@ -435,6 +571,7 @@ body {
     width: 149px;
     height: 145px;
     left: 815px;
+    top: 320px;
     background: #000000;
 }
 
@@ -453,7 +590,7 @@ body {
 .iten7 {
     position: absolute;
     width: 149px;
-    /*   largura */
+    /*   largura */
     height: 145px;
     /* altura */
     left: 1320px;
@@ -464,7 +601,7 @@ body {
 .iten8 {
     position: absolute;
     width: 149px;
-    /*   largura */
+    /*   largura */
     height: 145px;
     /* altura */
     left: 50px;
@@ -475,7 +612,7 @@ body {
 .iten9 {
     position: absolute;
     width: 149px;
-    /*   largura */
+    /*   largura */
     height: 145px;
     /* altura */
     left: 305px;
@@ -486,7 +623,7 @@ body {
 .iten10 {
     position: absolute;
     width: 149px;
-    /*   largura */
+    /*   largura */
     height: 145px;
     /* altura */
     left: 815px;
@@ -497,7 +634,7 @@ body {
 .iten11 {
     position: absolute;
     width: 149px;
-    /*   largura */
+    /*   largura */
     height: 145px;
     /* altura */
     left: 1070px;
@@ -508,7 +645,7 @@ body {
 .iten12 {
     position: absolute;
     width: 149px;
-    /*   largura */
+    /*   largura */
     height: 145px;
     /* altura */
     left: 570px;
@@ -519,16 +656,68 @@ body {
 .iten13 {
     position: absolute;
     width: 149px;
-    /*   largura */
+    /*   largura */
     height: 145px;
     /* altura */
-    left: 815px;
-    top: 1220px;
+    left: 570px;
+    top: 770px;
+        background: #000000;
+}
+
+.iten14 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 50px;
+    top: 770px;
     background: #000000;
 }
 
+.iten15 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 310px;
+    top: 770px;
+    background: #000000;
+}
 
+.iten16 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 820px;
+    top: 770px;
+    background: #000000;
+}
 
+.iten17 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 1070px;
+    top: 770px;
+    background: #000000;
+}
+
+.iten18 {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 1320px;
+    top: 770px;
+    background: #000000;
+}
 .p1 {
     color: black;
     text-align: left;
@@ -665,11 +854,71 @@ body {
     color: black;
 }
 
+.p13 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 21px;
+    left: 560px;
+    top: 960px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
 
+.p14 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 50px;
+    top: 960px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
 
+.p15 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 310px;
+    top: 960px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
 
+.p16 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 820px;
+    top: 960px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
 
+.p17 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1070px;
+    top: 960px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
 
+.p18 {
+    text-align: left;
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1320px;
+    top: 960px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
 .um {
     width: 50px;
     height: 50px;
@@ -733,405 +982,4 @@ body {
     height: 20px;
     margin-bottom: -0.2%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 50%;
-    padding: 0 3rem;
-}
-
-h1 {
-   
-    border: #ffffff;
-    margin: 0.4rem;
-}
-
-h1 {
-    font-size: 3.5rem;
-}
-
-
-
-.author {
-    color: rgb(255, 0, 0);
-    text-decoration: none;
-
-}
-
-
-
-a:hover {
-    color: rgb(255, 255, 255);
-
-}
-
-
-
-.fas {
-    color: rgb(0, 0, 0);
-    font-size: 3rem;
-    margin: 0px;
-    padding: 0px;
-
-
-
-}
-
-
-
-.erasing-animation { 
-
-    animation-name: erasing;
-    animation-duration: 1.5s;
-
-}
-
-
-
-@keyframes erasing {
-
-    0% {
-        transform: rotate(0deg);
-    }
-
-    10% {
-        transform: rotate(180deg);
-    }
-
-    60% {
-        transform: rotate(180deg);
-    }
-
-    70% {
-        transform: rotate(0deg);
-    }
-
-    100% {
-        transform: rotate(0deg);
-    }
-
-}
-
-.writing-animation {
-    animation-name: writting;
-    animation-duration: 3s;
-
-}
-
-@keyframes writting {
-    0% {
-        transform: translate(0px, 0px);
-    }
-
-    2% {
-        transform: translate(30px, -40px);
-    }
-
-    4% {
-        transform: translate(0px, 0px);
-    }
-
-    6% {
-        transform: translate(30px, -40px);
-    }
-
-    8% {
-        transform: translate(0px, 0px);
-    }
-
-    10% {
-        transform: translate(30px, -40px);
-    }
-
-    12% {
-        transform: translate(0px, 0px);
-    }
-
-    14% {
-        transform: translate(30px, -40px);
-    }
-
-    16% {
-        transform: translate(0px, 0px);
-    }
-
-    18% {
-        transform: translate(30px, -40px);
-    }
-
-    20% {
-        transform: translate(0px, 0px);
-    }
-
-    22% {
-        transform: translate(30px, -40px);
-    }
-
-    24% {
-        transform: translate(0px, 0px);
-    }
-
-    26% {
-        transform: translate(30px, -40px);
-    }
-
-    28% {
-        transform: translate(0px, 0px);
-    }
-
-    30% {
-        transform: translate(30px, -40px);
-    }
-
-    32% {
-        transform: translate(0px, 0px);
-    }
-
-    34% {
-        transform: translate(30px, -40px);
-    }
-
-    36% {
-        transform: translate(0px, 0px);
-    }
-
-    38% {
-        transform: translate(30px, -40px);
-    }
-
-    40% {
-        transform: translate(0px, 0px);
-    }
-
-    42% {
-        transform: translate(30px, -40px);
-    }
-
-    44% {
-        transform: translate(0px, 0px);
-    }
-
-    46% {
-        transform: translate(30px, -40px);
-    }
-
-    48% {
-        transform: translate(0px, 0px);
-    }
-
-    50% {
-        transform: translate(30px, -40px);
-    }
-
-    52% {
-        transform: translate(0px, 0px);
-    }
-
-    54% {
-        transform: translate(30px, -40px);
-    }
-
-    56% {
-        transform: translate(0px, 0px);
-    }
-
-    58% {
-        transform: translate(30px, -40px);
-    }
-
-    60% {
-        transform: translate(0px, 0px);
-    }
-
-    62% {
-        transform: translate(30px, -40px);
-    }
-
-    64% {
-        transform: translate(0px, 0px);
-    }
-
-    66% {
-        transform: translate(30px, -40px);
-    }
-
-    68% {
-        transform: translate(0px, 0px);
-    }
-
-
-
-    70% {
-        transform: translate(30px, -40px);
-    }
-
-    72% {
-        transform: translate(0px, 0px);
-    }
-
-    74% {
-        transform: translate(30px, -40px);
-    }
-
-    76% {
-        transform: translate(0px, 0px);
-    }
-
-    78% {
-        transform: translate(30px, -40px);
-    }
-
-    80% {
-        transform: translate(0px, 0px);
-    }
-
-    82% {
-        transform: translate(30px, -40px);
-    }
-
-    84% {
-        transform: translate(0px, 0px);
-    }
-
-    86% {
-        transform: translate(30px, -40px);
-    }
-
-    88% {
-        transform: translate(0px, 0px);
-    }
-
-    90% {
-        transform: translate(30px, -40px);
-    }
-
-    92% {
-        transform: translate(0px, 0px);
-    }
-
-    94% {
-        transform: translate(30px, -40px);
-    }
-
-    96% {
-        transform: translate(0px, 0px);
-    }
-
-    98% {
-        transform: translate(30px, -40px);
-    }
-
-    100% {
-        transform: translate(0px, 0px);
-    }
-
-
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
